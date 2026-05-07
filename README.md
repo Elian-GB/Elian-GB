@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Elian-GB/Elian-GB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hola, soy Licenciado en Desarrollo de Software
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Assets/Computer%20Work.gif" width="400" alt="Programador trabajando">
+</p>
+
+# 👋 Hola, soy Elian | Licenciado en Desarrollo de Software
 
 Desarrollador enfocado en la creación de soluciones eficientes, con experiencia en el ciclo de vida del software y un fuerte interés en la arquitectura de nube y el desarrollo móvil.
 
@@ -29,35 +33,44 @@ Desarrollador enfocado en la creación de soluciones eficientes, con experiencia
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack & Skills
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Base de Datos** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Nube & Herramientas** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
-
----
-
-### 🔭 Proyectos en curso
-
-- 🚀 **Estrategia de Marca Personal:** Iniciando la planeación de un proyecto para la difusión de contenido técnico y análisis de software.
-- ☁️ **AWS Cloud Foundations:** Profundizando en servicios de infraestructura, procesos ETL y gestión de datos en la nube.
-
----
-
-### 📊 Estadísticas
+> "La mejor manera de predecir el futuro es inventarlo." – Alan Kay
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=aaaaaa" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=aaaaaa" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Mint-00aa00?style=for-the-badge&logo=linux-mint&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Contacto
+### 🔭 Enfoque Actual
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINK_AQUI)
+- ☁️ **AWS Cloud Foundations:** Profundizando en arquitectura, procesos ETL y gestión de datos en la nube.
+- 🚀 **Estrategia de Marca Personal:** Planeación de un proyecto para la difusión de análisis de software y contenido técnico.
+
+---
+
+### 📫 Conectemos
+
+<p align="left">
+<a href="https://www.linkedin.com/in/elian-gonzalez-bustamante-5b7774273" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:elacio1623@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
 
 ---

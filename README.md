@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Assets/Computer%20Work.gif" width="400" alt="Programador trabajando">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=System.out.println(%22Hola!+Soy+Elian%22);Developing+efficient+solutions;AWS+Cloud+Foundations;Linux+User;Always+looking+to+learn" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/code.gif" width="500" alt="Coding GIF">
 </p>
 
 # 👋 Hola, soy Elian | Licenciado en Desarrollo de Software
@@ -38,6 +42,7 @@ Desarrollador enfocado en la creación de soluciones eficientes, con experiencia
 > "La mejor manera de predecir el futuro es inventarlo." – Alan Kay
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

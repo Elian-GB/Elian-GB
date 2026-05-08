@@ -16,24 +16,20 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=System.out.println(%22Hola!+Soy+Elian%22);Developing+efficient+solutions;AWS+Cloud+Foundations;Linux+User;Always+looking+to+learn" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/images/code.gif" width="500" alt="Coding GIF">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hola!+Soy+Elian%22);Developing+efficient+solutions...;AWS+Cloud+Foundations;Linux+Mint+User" alt="Typing SVG" />
 </p>
 
 # 👋 Hola, soy Elian | Licenciado en Desarrollo de Software
 
-Desarrollador enfocado en la creación de soluciones eficientes, con experiencia en el ciclo de vida del software y un fuerte interés en la arquitectura de nube y el desarrollo móvil.
+Desarrollador de Software formado en la **UTP** con una sólida base técnica en **Java**, **Python** y gestión de bases de datos. Me apasiona la innovación tecnológica y la implementación de soluciones de **Inteligencia Artificial**.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 💻 **Perfil:** Especialista en desarrollo de software con enfoque en código limpio y sistemas escalables.
-- 🐧 **Entorno de trabajo:** Usuario de **Linux Mint** y Windows 11 para flujos de trabajo versátiles.
-- ⚡ **Intereses:** Computación en la nube (AWS), optimización de bases de datos y nuevas tecnologías.
+- 🎓 **Educación:** Licenciatura en Desarrollo de Software - Universidad Tecnológica de Panamá.
+- 🐧 **Entorno:** Usuario de **Linux Mint** y Windows para flujos de trabajo versátiles.
+- 🛠️ **Experiencia:** Mantenimiento de hardware, gestión de servidores y desarrollo web full-stack.
 
 ---
 
@@ -45,24 +41,23 @@ Desarrollador enfocado en la creación de soluciones eficientes, con experiencia
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-00aa00?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ---
 
-### 🔭 Enfoque Actual
+### 🔭 Proyectos Destacados
 
-- ☁️ **AWS Cloud Foundations:** Profundizando en arquitectura, procesos ETL y gestión de datos en la nube.
+- 🤖 **Asistente Virtual con IA local:** Backend en **FastAPI** conectado a modelos de lenguaje mediante la API de **Ollama**, con interfaz en **TailwindCSS**.
+- 📦 **Sistema de Inventario:** Aplicación de escritorio con **VB.NET** y **SQL Server** para gestión de ventas y reportes.
 - 🚀 **Estrategia de Marca Personal:** Planeación de un proyecto para la difusión de análisis de software y contenido técnico.
 
 ---
